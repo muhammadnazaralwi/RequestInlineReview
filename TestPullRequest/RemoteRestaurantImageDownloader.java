@@ -1,8 +1,3 @@
-package api;
-
-import feature.HTTPClient;
-import feature.RestaurantLoader;
-
 import java.net.URL;
 
 public class RemoteRestaurantImageDownloader implements RestaurantLoader {
